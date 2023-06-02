@@ -427,6 +427,7 @@
     },
     "HK": {
       "BuddyManualProvisioningEnabled": true,
+      "BrowseProvisioningBankAppsEnabled": true,
       "BuddyProvisioningEnabled": true,
       "ManualProvisioningEnabled": true,
       "serverURL": "https://smp-device.apple.com/broker",
