@@ -1685,6 +1685,7 @@
       "registrationType": "lightweight",
       "brandIdentifiers": {
         "002": "BMW1",
+        "0003": "MBCS",
         "170": "GENE",
         "171": "HYUN",
         "172": "KIA1",
@@ -1724,6 +1725,23 @@
             "010003"
           ]
         }]
+      },
+        {
+        "associatedApplicationIdentifier": "",
+        "manufacturerIdentifier": "MBAG",
+        "partnerIdentifier": "MBCS",
+        "partnerName": "Mercedes-Benz",
+        "terminalCriteria": [{
+          "type": "ecp.2.tci",
+          "tcis": [
+            "010201",
+            "010202",
+            "010203",
+            "010204",
+            "010205",
+            "010206"
+          ]
+        }] 
       },
         {
           "associatedApplicationIdentifiers": [
